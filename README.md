@@ -1,2 +1,1 @@
-# CarPricePrediction
-predicting car prices on basis of few features
+# Car-Price-Prediction
